@@ -7,7 +7,6 @@ public class PairCompare {
         int num2 = scanner.nextInt();
         int num3 = scanner.nextInt();
         int num4 = scanner.nextInt();
-
         if ((num1 == num2 && num3 == num4) ||
                 (num1 == num3 && num2 == num4) ||
                 (num1 == num4 && num2 == num3)){
